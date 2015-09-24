@@ -1,4 +1,4 @@
-###Die Ergebnisse des Xovilichterwettbewerbs als Wordpress Plugin
+###Die Ergebnisse des Xovilichterwettbewerbs für [Suchmaschinenoptimierung](http://www.omsag.de/suchmaschinenoptimierung) als Wordpress Plugin
 
 Du nimmst am Xovilichterwettbewerb teil? Dann hol dir die Ergebnissliste des Xovilichterwettbewerbs in deinen Wordpress-Blog.
 
@@ -22,4 +22,5 @@ Folgende Variationen sind ebenfalls noch möglich:
 ### Konfiguration
 In der Date ```XovilichterErgebnisse.php``` muss in ```Zeile 26``` der Link zur Ergebnisseite von Xovi eingetragen werden.
 
-In Aktion kann das Plugin auf der [Xovilichter Contest-Seite der OMS AG](http://www.omsag.de/xovilichter/) betrachtet werden.
+In Aktion kann das Plugin auf der [Xovilichter Contest-Seite der OMS AG](http://www.omsag.de/contest/) betrachtet werden.
+
